@@ -10,6 +10,10 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Quartz 4",
     pageTitleSuffix: "",
+  extraHead: `
+    <link rel="stylesheet" href="/lightbox.css">
+    <script defer src="/lightbox.js"></script>
+  `,
     enableSPA: true,
     enablePopovers: true,
     analytics: {
