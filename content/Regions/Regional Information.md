@@ -1,7 +1,6 @@
 
-![[EtaarinWM.jpg]][Open Full Map](EtaarinWM.jpg)
 
-
+![[Etaarinworld.jpg]]
 
 
 <h3> General Notes: <h3>
