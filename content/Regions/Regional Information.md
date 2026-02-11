@@ -15,15 +15,12 @@ If any more information is required (as I'm sure it will be) feel free to reach 
 
  ## [[Arrendel]] : 
 
-Arrendel's landscape is made up of vast forests and plains, large mountains and mineral deposits on its west borders, and the Sea of Dragons on its east coast. The current ruling kingdom has been split into 3 warring baronies referred to as Upper, Midden, and Lower Arrendale. Each are ruled by the youngest, middle, and eldest child respectively.  
+A land of unrest and civil war, Arrendel has fallen into deep strife and is unlikely to dig itself out in the coming years. 
 
-Arrendel is also home to a mid sized dwarven hold in the western mountains, there are halfling  hillocks located in the foothills under those mountains, though most are un populated due to the actions of Reznik the youngest of the late Kings children. There are also wood elf groves deep in the forest, though they are mostly closed to outsiders due to the hostile actions of the warring heirs. 
+3 Siblings are all that's left of Arren's mighty Kingdom
 
-Previous to King Arren's rule the area was known as "Sile-easten¹" and was claimed by 4 great dragon clans. The clans were all but wiped out during an uprising led by Arren himself, though there are a few small pockets of dragon worshippers in the more isolated regions of Arrendel. 
+---
 
-¹ "Sile-Easten" roughly translates to "Serpents rest" from the local dragon tongue to common. 
-
-  
 
 ## [[Sandspite]]: 
 
@@ -77,3 +74,5 @@ The native creatures of Zlatya are extremely hardy, and very sparce, monsters th
 Zlatya is home to House Nakuma, A dwarven clan with a large city in the centre of the landmass. The Nakuman dwarves are a hardy and violent people, often raiding nearby barbarians and occasionally mounting army's large enough to raid and sack the cities of northerners. 
 
 House Nakuma holds alliances with local some local White Dragons, and the frigid Island nation of Vorkuta.**
+
+

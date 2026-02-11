@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"2aede2a58e40c401","type":"text","text":"Age of The Ancients (????-?)\nAOA","x":-180,"y":-380,"width":250,"height":60},
+		{"id":"eb53623db560a61f","type":"text","text":"The Precursors created the [[Elementals]] to fight their wars for them, and in the process created the very beings that would spell thier end. The Elementals turned on their creators, and after the war was won, created Etaarin as it is known today.","x":180,"y":-275,"width":380,"height":181},
+		{"id":"30ee0a64c210fe4a","type":"text","text":"The world was a soup of Unreality, Time was not a linear chain, instead it was fractured, ruled by unfathomable beings known as [[Precursors]].","x":180,"y":-407,"width":380,"height":115},
+		{"id":"cf9e9d4ec1ab84ff","type":"text","text":"Age of Elementals (?-0)\nAOE","x":-180,"y":-214,"width":250,"height":60},
+		{"id":"f6d427ef6c54ca2b","type":"text","text":"Age Of Rebirth (20,300-22,300\nAOR (0-2300) Current Age","x":-180,"y":290,"width":250,"height":80},
+		{"id":"0ce79933ea1097e3","type":"text","text":"Age of Oblivion (20,000- 20,300\nAOO (0-300)","x":-180,"y":139,"width":250,"height":77},
+		{"id":"b048e39344325eb6","type":"text","text":"","x":180,"y":148,"width":136,"height":60},
+		{"id":"03e19e411f24661a","type":"text","text":"","x":168,"y":300,"width":160,"height":60},
+		{"id":"e2e73dfc332e6365","type":"text","text":"","x":180,"y":-64,"width":380,"height":203},
+		{"id":"d0a0d1b493d599e5","type":"text","text":"Age of Mortals (0-20,000)\nAOM (0-20,000)","x":-180,"y":8,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"15bc3c07924e10a2","fromNode":"2aede2a58e40c401","fromSide":"bottom","toNode":"cf9e9d4ec1ab84ff","toSide":"top"},
+		{"id":"c6dfbcecaf467b3e","fromNode":"cf9e9d4ec1ab84ff","fromSide":"bottom","toNode":"d0a0d1b493d599e5","toSide":"top"},
+		{"id":"ba7bd8ddb3262c1a","fromNode":"d0a0d1b493d599e5","fromSide":"bottom","toNode":"0ce79933ea1097e3","toSide":"top"},
+		{"id":"c5c9258751fc66f1","fromNode":"0ce79933ea1097e3","fromSide":"bottom","toNode":"f6d427ef6c54ca2b","toSide":"top"},
+		{"id":"1c9a18b0627bf3f7","fromNode":"2aede2a58e40c401","fromSide":"right","toNode":"30ee0a64c210fe4a","toSide":"left"},
+		{"id":"2c775f281d4d4715","fromNode":"cf9e9d4ec1ab84ff","fromSide":"right","toNode":"eb53623db560a61f","toSide":"left"},
+		{"id":"85b17734bf4c6a89","fromNode":"d0a0d1b493d599e5","fromSide":"right","toNode":"e2e73dfc332e6365","toSide":"left"},
+		{"id":"47bdc92e6b111cb7","fromNode":"0ce79933ea1097e3","fromSide":"right","toNode":"b048e39344325eb6","toSide":"left"},
+		{"id":"327bfc79cbad2917","fromNode":"f6d427ef6c54ca2b","fromSide":"right","toNode":"03e19e411f24661a","toSide":"left"}
+	]
+}
