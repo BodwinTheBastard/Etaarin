@@ -8,7 +8,7 @@
 		{"id":"0ce79933ea1097e3","type":"text","text":"Age of Oblivion (20,000- 20,300\nAOO (0-300)","x":-180,"y":139,"width":250,"height":77},
 		{"id":"b048e39344325eb6","type":"text","text":"","x":180,"y":148,"width":136,"height":60},
 		{"id":"03e19e411f24661a","type":"text","text":"","x":168,"y":300,"width":160,"height":60},
-		{"id":"e2e73dfc332e6365","type":"text","text":"","x":180,"y":-64,"width":380,"height":203},
+		{"id":"e2e73dfc332e6365","type":"text","text":"The Elementals created the [[Mortals]] and left the world in their physical forms leaving their creations to rule Etaarin.","x":180,"y":-64,"width":380,"height":203},
 		{"id":"d0a0d1b493d599e5","type":"text","text":"Age of Mortals (0-20,000)\nAOM (0-20,000)","x":-180,"y":8,"width":250,"height":60}
 	],
 	"edges":[
