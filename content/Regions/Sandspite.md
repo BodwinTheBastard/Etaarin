@@ -1,0 +1,5 @@
+Sand Spite's landscape is a mountainous desert, very little natural water is on the surface of the land. Massive mesa's shoot out of most of the regions central valley, making some parts of the region extremely cold, due to the lack of sunlight. 
+
+In the Age Of Mortals Sand Spite was ruled by a Human/Tabaxi group called "The Redane Collective" They built a grand city in the desert above a underground water source, they used this as a hub for trading and eventually constructed "The Grand Library" a gargantuan library that stored knowledge and secrets from every passing Caravan. During the age of Oblivion, Sand Spite went through what is now known as "The Great Collapse",  mesa's toppled, The mountains slid from their peaks, and The Redane Collective was buried beneath the endless sands.  
+
+Sand Spite's ownership is currently disputed by a number of dragons, Bandit clans, and state sponsored treasure hunters all of which are searching for treasure lost during "The Great Collapse". The region is without a formal leadership system, and lawlessness is the status quo. 

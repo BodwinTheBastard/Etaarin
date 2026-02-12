@@ -1,0 +1,1 @@
+Caulden Arren is the Eldest son of King Arren, He rules Lower Arrendel including [[Saltstone]]

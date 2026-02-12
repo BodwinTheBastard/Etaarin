@@ -1,0 +1,1 @@
+Saltstone is the Capital city of Arrendel
