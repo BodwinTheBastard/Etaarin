@@ -45,7 +45,7 @@ into the forests. Thousands fled to the twinned city, though few survived the pe
 through Sand Spite.
 And then, There's you.....
 
-Somehow you ended up in a prison camp west of Dyenghar. Maybe you were caught trying to
+Somehow you ended up in a prison camp west of [[Dyenghar]]. Maybe you were caught trying to
 sneak across the border, maybe you made an enemy of a local guard captain, or maybe you
 were just plain unlucky. In any case, you've spent the last few weeks in the mines, swinging a
 pick and digging deeper into the earth, digging deeper towards... Something......

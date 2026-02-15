@@ -4,13 +4,15 @@ I don't know what to do with this page yet, but the website breaks if I remove i
 
 Here are some good pages to get you started:
 
-[[Regional Information]]: For basic regional write ups. click on specific regions for more detailed info
+[[Arrendel Information]]: For Information on Arrendel
 
 [[Session Notes]]: For if you need an update on the campaign so far
 
 [[Timeline.canvas|Timeline]]: If you want a wide overview of the history of Etaarin (this doesn't work yet, will find fix later)
 
 [[Calendar]]: if you want to view the in world Calendar (for Scheduling check the Links tab on discord)
+
+[[Map Index]]: Just a document full of maps.
 
 
 

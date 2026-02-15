@@ -1,3 +1,3 @@
 Put session Recaps here.
 
-We havent played yet lol
+We haven't played yet lol
